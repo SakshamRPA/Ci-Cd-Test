@@ -14,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.10.5.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.3",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -44,7 +44,8 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "saveToCloud": false
+    "saveToCloud": false,
+    "cloudProjectUrl": "https://cloud.uipath.com/yashtfawtjpe/studio_/designer/a03c4b46-07ae-4b50-bb22-cf93f035c82b"
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
